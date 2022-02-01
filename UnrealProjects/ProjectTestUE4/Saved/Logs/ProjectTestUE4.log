@@ -1827,3 +1827,33 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.01-17.33.30:757][476]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
 [2022.02.01-17.33.30:861][478]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
 [2022.02.01-17.33.30:861][478]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.02.01-17.34.52:691][299]LogActorFactory: Actor Factory created Cube
+[2022.02.01-17.34.52:693][299]LogMaterial: Display: Missing cached shadermap for BasicShapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: ABE182EEB7D0A83A0CD7568E8017A559D143875E), compiling. 
+[2022.02.01-17.34.52:725][299]LogShaderCompilers: Display: Submitted 75 shader compile jobs with 'Low' priority
+[2022.02.01-17.34.52:734][300]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 75
+[2022.02.01-17.34.52:734][300]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 68
+[2022.02.01-17.34.52:734][300]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 61
+[2022.02.01-17.34.52:734][300]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 54
+[2022.02.01-17.34.52:734][300]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 47
+[2022.02.01-17.34.52:734][300]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 40
+[2022.02.01-17.34.52:734][300]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 33
+[2022.02.01-17.34.52:734][300]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 26
+[2022.02.01-17.34.52:734][300]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 19
+[2022.02.01-17.34.52:734][300]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2022.02.01-17.34.52:734][300]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 5
+[2022.02.01-17.34.52:734][300]LogShaderCompilers: Display: Started 75 'Local' shader compile jobs with 'Low' priority
+[2022.02.01-17.34.53:430][340]LogActorFactory: Actor Factory created Cube
+[2022.02.01-17.34.54:713][407]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.01-17.34.54:714][407]LogShaderCompilers: Display: Total job queries 1677, among them cache hits 0 (0.00%)
+[2022.02.01-17.34.54:714][407]LogShaderCompilers: Display: Tracking 1607 distinct input hashes that result in 844 distinct outputs (52.52%)
+[2022.02.01-17.34.54:714][407]LogShaderCompilers: Display: RAM used: 18.04 MB (0.02 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.55%
+[2022.02.01-17.34.54:714][407]LogShaderCompilers: Display: ================================================
+[2022.02.01-17.35.15:253][629]LogActorFactory: Actor Factory created Cube
+[2022.02.01-17.35.16:416][699]LogActorFactory: Actor Factory created Cube
+[2022.02.01-17.35.27:488][363]LogEditorViewport: Clicking Background
+[2022.02.01-17.35.43:946][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Landscape" FILE="F:/Unreal_Projects/ProjectTest/TestRepoUE4/UnrealProjects/ProjectTestUE4/Content/Landscape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.01-17.35.43:953][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.02.01-17.35.43:964][346]LogSavePackage: Moving 'F:/Unreal_Projects/ProjectTest/TestRepoUE4/UnrealProjects/ProjectTestUE4/Saved/Landscape147DF0854CA3B4F38171C2A6ABEF44CE.tmp' to 'F:/Unreal_Projects/ProjectTest/TestRepoUE4/UnrealProjects/ProjectTestUE4/Content/Landscape.umap'
+[2022.02.01-17.35.43:973][346]AssetCheck: New page: Asset Save: Landscape
+[2022.02.01-17.35.43:973][346]LogContentValidation: Display: Validating World /Game/Landscape.Landscape
+[2022.02.01-17.35.48:213][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
